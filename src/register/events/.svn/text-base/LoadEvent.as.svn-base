@@ -1,0 +1,39 @@
+﻿package emagin.xml.events {
+
+	import flash.events.Event;
+	
+	public class LoadEvent extends Event {
+		
+		public static const LOAD_CONFIG:String = "LoadEvent.LOAD_CONFIG";
+	
+		 
+	
+		public static const LOAD_EVENTS:String = "LoadEvent.LOAD_EVENTS";
+		public static const LOAD_LANG:String = "LoadEvent.LOAD_LANG";
+		public static const LOAD_CATS:String = "LoadEvent.LOAD_CATS";
+		public static const LOAD_ACTUALITE:String = "LoadEvent.LOAD_ACTUALITE";
+		public static const RESPONSE_NEWSLETTERS:String = "LoadEvent.RESPONSE_NEWSLETTERS";
+		
+		public static const LOAD_VIDEO:String = "LoadEvent.LOAD_VIDEO";
+		public static const LOAD_COMMENTS_VIDEO:String = "LoadEvent.LOAD_COMMENTS_VIDEO";
+		
+		public static const COMMENT_RESPONSE_ADD:String = "LoadEvent.COMMENT_RESPONSE_ADD";
+		public static const VIDEO_RESPONSE_ADD:String = "LoadEvent.VIDEO_RESPONSE_ADD";
+		public static const VOTE_RESPONSE_ADD:String = "LoadEvent.VOTE_RESPONSE_ADD";
+		
+		public static const LOAD_VIDEOS_GALERY:String = "LoadEvent.LOAD_VIDEOS_GALERY";
+		
+		
+		
+		public static const VALIDATE_STEP1:String = "LoadEvent.VALIDATE_STEP1";
+		public static const VALIDATE_STEP2:String = "LoadEvent.VALIDATE_STEP2";
+		 
+		
+		public var load_data:Object;
+		
+		public function LoadEvent(pEvent:String):void {
+			super(pEvent,true);
+		}
+	};
+	
+};
