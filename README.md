@@ -6,7 +6,9 @@ the player has to collect A I C H A letters , using 7 characters (9fizou, kricho
 
 and switch between these characters as the gameplay needs , each one has a special power or skill like jumbing , ducking ,crawling , pushing ,shooting  ....
 
-<b>screenshots</b> :
+<b>Screenshots</b> :
+<br>
+
 <img src="img/im1.png" with='400' height='296'/>
 <img src="img/im2.png" with='400' height='296'/>
 <img src="img/im3.png" with='400' height='296'/>
