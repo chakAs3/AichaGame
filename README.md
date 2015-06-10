@@ -12,7 +12,7 @@ and switch between these characters as the gameplay needs , each one has a speci
 <img src="img/im1.png" with='400' height='296'/>
 <img src="img/im2.png" with='400' height='296'/>
 <img src="img/im3.png" with='400' height='296'/>
-<img src="img/im4.jpeg" with='400' height='296'/>
+<img src="img/im4.jpg" with='400' height='296'/>
 <img src="img/im5.png" with='400' height='296'/>
 
 <b>Technologies</b> :
